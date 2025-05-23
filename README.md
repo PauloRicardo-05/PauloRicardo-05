@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm ... from .... MG Brazil<br><br>- 🔭 Looking for a job<br>- 📚 I'm currently learning I am currently learning javascript, python and C<br>- ⚡ In my free time I test new ideas and play a little.</p>
+<p align="left">I'm from MG Brazil<br><br>- 🔭 Looking for a job<br>- 📚 I'm currently learning I am currently learning javascript, python and C<br>- ⚡ In my free time I test new ideas and play a little.</p>
 
 ###
 
