@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  About Me <br></h3>
 
 ###
 
