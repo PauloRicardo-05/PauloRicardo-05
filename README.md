@@ -1,6 +1,8 @@
 <p align="center">
+  <a href="https://www.linkedin.com/in/paulo-ricardo-9439a9263/" target="_blank">
   <img src="https://github.com/PauloRicardo-05/PauloRicardo-05/blob/main/Celebrate%20In%20Love%20GIF%20by%20Max.gif?raw=true" width="400" />
-</p>
+<a/>
+  </p>
 
 ###
 
