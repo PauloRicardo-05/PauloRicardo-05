@@ -1,5 +1,5 @@
 <div align="center">
-  <img https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpsajA3OHpsdHQ0cXc0Z3RzdHFiZG9hYzFrZ2J6aXN3aHdraDMzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif"/>
+  <img/>"https://github.com/PauloRicardo-05/PauloRicardo-05/blob/main/Celebrate%20In%20Love%20GIF%20by%20Max.gif"
 </div>
 
 ###
