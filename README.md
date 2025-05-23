@@ -1,8 +1,7 @@
-Paulo Ricardo Oliveira Santos
+<h2 align="center">Paulo Ricardo Oliveira Santos</h2>
+<h4 align="center">🎓 Computer Engineering student</h4>
+<p align="center">📍 Ituiutaba, MG - Brasil</p>
 
-Computer Engineering student
-
-(Ituiutaba, MG - Brasil)
 
 <p align="center">
   <img src="https://github.com/PauloRicardo-05/PauloRicardo-05/blob/main/Celebrate%20In%20Love%20GIF%20by%20Max.gif?raw=true" width="400" />
