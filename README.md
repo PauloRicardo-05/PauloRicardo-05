@@ -55,18 +55,6 @@ No momento, estou focado em:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRicardo-05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRicardo-05&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
 ## Onde me encontrar
 
 - Portfolio: [pauloricardo-05.github.io/Portifolio](https://pauloricardo-05.github.io/Portifolio/)
