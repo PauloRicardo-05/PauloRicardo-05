@@ -30,7 +30,9 @@ No momento, estou focado em:
 | [Portfolio](https://github.com/PauloRicardo-05/Portifolio) | Meu site pessoal com projetos, certificados, habilidades e contato. | React, TypeScript, Vite |
 | [AlgoViz](https://github.com/PauloRicardo-05/algo-visualizer) | Visualizador interativo de algoritmos de ordenacao e busca em grafos. | React, Vite, JavaScript |
 | [Debugando o Futuro](https://github.com/PauloRicardo-05/Projeto-site) | Site responsivo voltado para publicacao de conteudos sobre tecnologia. | HTML, CSS, JavaScript |
-| [Parallax Model](https://github.com/PauloRicardo-05/ParallaxModel) | Demonstracao visual de efeito parallax em uma landing page. | HTML, CSS |
+| [Nasa-Space-Apps-Challenge-2025](https://github.com/PauloRicardo-05/Nasa-Space-Apps-Challenge-2025) |Desafio NasaSpaceApps de 2025 realizado pelo time XBigDevs do qual faço parte integralmente.| Python, flask, React |
+| [jornada-tech-uemg](https://github.com/MeloLuc/jornada-tech-uemg) | Site desenvolvido pelo time XBigDevs para a comunidade acadêmica de computação da universidade UEMG. | React, TypeScript, Supabase, Vercel |
+| [Prototipagem e Eletrônica](https://github.com/PauloRicardo-05/prototipagem-eletronica) | Projeto realizado para o aprendizado, contribuição pra comunidade e o aprofundamento profissional na área. | C++, PlatformIO, Arduino, Wokiw, Tinkerkad |
 
 ---
 
@@ -45,6 +47,9 @@ No momento, estou focado em:
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
 
+
+
+
 ### Linguagens e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3670a0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,6 +57,7 @@ No momento, estou focado em:
 ![Arduino](https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7A00?style=for-the-badge&logo=platformio&logoColor=white)
 
 ---
 
